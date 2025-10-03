@@ -1,0 +1,9 @@
+[submodule "data"]
+	path = data
+	url = https://github.com/VanDuongPCB/htfx-data.git
+[submodule "framework"]
+	path = framework
+	url = https://github.com/VanDuongPCB/htfx-framework.git
+[submodule "demo"]
+	path = demo
+	url = https://github.com/VanDuongPCB/htfx-demo.git
