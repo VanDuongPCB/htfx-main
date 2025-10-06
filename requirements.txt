@@ -1,0 +1,4 @@
+colorama
+scikit-learn
+sentence_transformers
+faiss-cpu

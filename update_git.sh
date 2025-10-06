@@ -4,12 +4,12 @@
 # ==============================
 
 echo "Updating main repository..."
-git pull origin main
+git pull origin master
 
 echo
 echo "Updating submodules..."
 git submodule update --init --recursive
-git submodule foreach git pull origin main
+git submodule foreach git pull origin master
 
 echo
 echo "Update completed!"
